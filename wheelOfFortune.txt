@@ -1,0 +1,6 @@
+Car Part, wheel bearing
+Car Brand, subaru
+Tire Brand, yokohama
+Computer Part, graphics processing unit
+Japanese Food, sashimi
+Car Model, volkswagen tiguan
